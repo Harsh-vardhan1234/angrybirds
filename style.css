@@ -1,0 +1,95 @@
+ ul{
+     list-style-type:none ;
+ }
+ #first{
+     float: left;
+     color: rgb(0, 0, 0);
+     font-size: 55px;
+     font-weight: bold;
+     font-family:luckiest guy ;
+     cursor: crosshair;
+ }
+ #second{
+     float: right;
+font-size: 35px;
+color: black;
+font-weight: bold;
+padding-right:30px ;
+font-family:acme ;
+ }
+ #third{
+     float: right;
+     font-size: 35px;
+color: black;
+font-weight: bold;
+padding-right:30px ;
+font-family:acme ;
+ }
+ #fourth{
+     float: right;
+     font-size: 35px;
+color: black;
+font-weight: bold;
+padding-right:30px ;
+font-family:acme ; 
+ }
+ a{
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+ }
+ a:hover{
+     background: linear-gradient(to right, rgb(50, 120, 141),crimson);
+     color: white;
+ }
+ #a{
+     height: 100vh;
+     width: 100%;
+     text-align: center;
+     padding-bottom:30px ;
+ }
+ #b{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#c{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#d{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#e{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#f{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#g{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+#h{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    padding-bottom:30px ;
+}
+body{
+    background: linear-gradient(to bottom, rgb(32, 117, 151),rgb(179, 28, 91));
+}
+
